@@ -4,7 +4,7 @@ import React from 'react'
 const MainScreen = () => {
   return (
     <View>
-      <Text>MainScressssn?</Text>
+      <Text>MainSgdafasssssasdasdsn?</Text>
     </View>
   )
 }

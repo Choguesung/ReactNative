@@ -12,3 +12,4 @@ const MainScreen = () => {
 export default MainScreen
 
 const styles = StyleSheet.create({})
+
